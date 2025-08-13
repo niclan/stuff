@@ -1,4 +1,4 @@
-host, disk, percentFree
+"host", "disk", "percentFree"
 "web1", "/etc", 3
 "web2", "/var", 4
 "web3", "/var", 8
